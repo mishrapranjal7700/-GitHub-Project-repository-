@@ -1,4 +1,4 @@
-#This Analysis is made by Papap singh as part of Nano degree DSA, Udacity.
+#This Analysis is made by Pranjal Mishra as part of Nano degree DSA, Udacity.
 These are my Interpretation and Understanding of the terms like Big O Notation for given Tasks
 
 Big O Notation for each task:
